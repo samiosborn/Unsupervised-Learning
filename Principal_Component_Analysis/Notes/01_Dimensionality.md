@@ -1,4 +1,4 @@
-# Principal Component Analysis (PCA)
+# Principal Component Analysis (PCA) - Dimension Reduction
 
 ## 1) Intuition
 
